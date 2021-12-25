@@ -9,7 +9,8 @@ Name it cicd-workshop, and select Next Step
 * *Select default settings and select Next*
 * *select Create Environment*
 ## **Install Tools & Resources**
-* *Click on this [link](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US/3-setup/01-tools-resources) and follow the steps.*
+* *Click on this [link](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US/3-setup/01-tools-resources) and follow the 7 steps.*
+*  *Click on this [Link](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/869f7eee-d3a2-490b-bf9a-ac90a8fb2d36/en-US/3-setup/02-setup-environments) and follow the steps to create the stack*
 ##  **Install Terraform**
 <!-- Blockquote -->
 <!-- italics -->
